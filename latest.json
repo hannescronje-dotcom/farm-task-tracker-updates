@@ -1,5 +1,5 @@
 {
   "version": "1.0.1",
-  "installerUrl": "REPLACE_WITH_DIRECT_DOWNLOAD_LINK_TO_FarmTaskTrackerSetup.exe",
+  "installerUrl": "https://raw.githubusercontent.com/hannescronje-dotcom/farm-task-tracker-updates/refs/heads/main/latest.json",
   "notes": "Farm Task Tracker update"
 }
