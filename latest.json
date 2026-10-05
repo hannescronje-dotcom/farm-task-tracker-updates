@@ -1,5 +1,5 @@
 {
-  "version": "1.0.5",
-  "installerUrl": "https://github.com/hannescronje-dotcom/farm-task-tracker-updates/releases/download/v1.0.5/FarmTaskTrackerSetup.exe",
-  "notes": "Selected lands now show a seasonal task summary grouped by tillage, planting, spraying, and fertilizer work."
+  "version": "1.0.6",
+  "installerUrl": "https://github.com/hannescronje-dotcom/farm-task-tracker-updates/releases/download/v1.0.6/FarmTaskTrackerSetup.exe",
+  "notes": "Field season summaries now show tillage type, clearer tillage dates, product lines, and date-based task status."
 }
